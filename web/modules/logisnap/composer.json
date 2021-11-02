@@ -1,0 +1,7 @@
+{
+    "name": "drupal/logisnap",
+    "description": "Send orders to LogiSnap",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}

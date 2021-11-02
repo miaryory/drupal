@@ -1,0 +1,5 @@
+logisnap.admin:
+  title: 'LogiSnap'
+  description: 'Send your orders to LogiSnap.'
+  parent: system.admin
+  route_name: logisnap.login

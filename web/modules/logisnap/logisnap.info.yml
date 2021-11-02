@@ -1,0 +1,18 @@
+name: LogiSnap
+description: Send orders automatically to LogiSnap.
+package: Custom
+
+dependencies:
+  - commerce:commerce
+  - commerce:commerce_order
+  - commerce:commerce_price
+  - commerce:commerce_cart
+  - commerce:commerce_checkout
+  - commerce:commerce_payment
+  - commerce:commerce_product
+  - commerce:commerce_promotion
+  - commerce:commerce_tax
+  - commerce_shipping:commerce_shipping
+
+type: module
+core: 8.x

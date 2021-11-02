@@ -1,0 +1,15 @@
+logisnap.login:
+  path: '/admin/logisnap'
+  defaults:
+    _form: '\Drupal\logisnap\Form\LoginForm'
+    _title: 'LogiSnap'
+  requirements:
+    _permission: 'access content'
+
+logisnap.webshop:
+  path: '/admin/webshop'
+  defaults:
+    _form: '\Drupal\logisnap\Form\Webshop'
+    _title: 'LogiSnap'
+  requirements:
+    _permission: 'access content'
